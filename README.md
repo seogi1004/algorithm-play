@@ -2,6 +2,6 @@
 
 ```
 cd friends4block
-npm instal
+npm install
 npm run dev
 ```
